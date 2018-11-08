@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django CMS\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-01-11 16:31+0000\n"
+"POT-Creation-Date: 2018-11-08 14:37+0100\n"
 "PO-Revision-Date: 2018-01-11 16:38+0000\n"
 "Last-Translator: Paulo Alvarado <paulo.alvarado@divio.ch>\n"
 "Language-Team: Hindi (http://www.transifex.com/divio/django-cms/language/hi/)\n"
@@ -18,5 +18,7 @@ msgstr ""
 "Language: hi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: static/cms/js/dist/3.5.2/bundle.admin.changeform.min.js:1
+#: static/cms/js/modules/cms.changeform.js:38
 msgid "Are you sure you want to change tabs without saving the page first?"
 msgstr "क्या आप सुनिश्चित हैं कि आप पृष्ठ टैब को बचाने के बिना परिवर्तन पहली करना चाहते हैं?"
